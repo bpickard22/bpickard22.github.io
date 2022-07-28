@@ -26,8 +26,6 @@ url: http://bpickard22.com/ # the base hostname & protocol for your site, e.g. h
 baseurl: /
 github_username:  bpickard22
 
-github:
-  repo: https://github.com/bpickard22/bpickard22.github.io
 
 # Build settings
 theme: minima
